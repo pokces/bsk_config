@@ -1,1 +1,4 @@
-hello-dev
+mysql:
+  user:he
+person:
+  name:ts
